@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo petitions of divers free-men of England, inhabitants in the city of Bristoll, and in the adjacent parts. The one presented to the Honourable House of Commons, upon the 2. of September, 1647. Together with their answer thereunto. The other to his Excellency Sir Thomas Fairfax, at his head-quarters at Kingston. Both signed with many thousand hands.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95457</idno>
+            <idno type="STC">Wing T3500</idno>
+            <idno type="STC">Thomason E405_23</idno>
+            <idno type="STC">ESTC R201895</idno>
+            <idno type="EEBO-CITATION">99862381</idno>
+            <idno type="PROQUEST">99862381</idno>
+            <idno type="VID">114539</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95457)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114539)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E405[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo petitions of divers free-men of England, inhabitants in the city of Bristoll, and in the adjacent parts. The one presented to the Honourable House of Commons, upon the 2. of September, 1647. Together with their answer thereunto. The other to his Excellency Sir Thomas Fairfax, at his head-quarters at Kingston. Both signed with many thousand hands.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the black Spread-Eagle, at the West End of Pauls.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"In favour of the army"--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "Sept: 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Bristol (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114539:1" rendition="simple:additions"/>
+            <p>TVVO PETITIONS Of Divers Free-men of England, Inhabitants in the City of BRISTOLL, And in the adjacent Parts.</p>
+            <p>The one preſented <hi>To the Honourable Houſe of Commons,</hi> Upon the 2. of September, 1647.</p>
+            <p>
+               <hi>Together with their Anſwer thereunto.</hi>
+            </p>
+            <p>THE OTHER To his Excellency Sir <hi>Thomas Fairfax,</hi> At his Head-Quarters at KINGSTON.</p>
+            <p>
+               <hi>Both ſigned with many thouſand Hands.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert,</hi> at the black Spread-Eagle, at the Weſt End of PAULS. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:114539:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:114539:2"/>
+            <head>TO His Excellency Sir <hi>Thomas Fairfax</hi> Knight, Commander in chiefe of all the Forces raiſed, and to be raiſed in the Kingdome of England, Dominion of Wales, the Iſles of Gernſey and Jerſey, and for the relief of Ireland.</head>
+            <head type="sub">The humble Petition of divers Free-men of England, Inhabitants in the City of Briſtoll, and the adjacent parts.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency;</salute>
+            </opener>
+            <p>WEE have had ſuch living expreſſions of your Excellencies faithfulneſſe, va<g ref="char:EOLhyphen"/>lour, and love unto your Countrey, that where ever we caſt our eyes, we view the engra<g ref="char:EOLhyphen"/>ven monuments thereof to all poſteritie. Should all other places be ſilent, yet the Citie of Briſtoll, and theſe Weſterne parts, muſt needs ſpeak loud, and tell the world, that your proweſſe, &amp; unwearied diligence hath again reſtored the ſpoil'd, and baniſhed, unto their houſes, and habitations. Your Excellencie did not, could not (ſuch was the nobleneſſe of your ſpirit) put too high a value upon your precious blood: you have hazarded life, eſtate, all that was deare unto you, and have ſtept in to relieve this King<g ref="char:EOLhyphen"/>dome under its greateſt languiſhments; and in the glorious hand of our God, wherein your Army hath
+<pb n="2" facs="tcp:114539:3"/>been a polliſhed ſhaft, we have ſeen ye triumphantly marching at once, to the terrour of your enemies, and the wonder of your friends. That ſweetneſſe, and gallantry of ſpirit, which you then mannaged againſt the enemies of this nation, that roſe up to trouble us; you are ſtill putting forth againſt thoſe, that appear with a new face, and under more ſpecious pretexts to rob us of our freedome. It was our libertie, which you then with all reſolution vindicated; you ſeeme to us to move ſtill in the ſame ſphere, and to be with all juſtice and moderation pleading our rights againſt ſuch as have attempted to uſurpe them.</p>
+            <p>We are very much ſatisfied in our ſpirits, (and therefore Declare thus much, to you, and the Kingdome) that all your Excellencies undertakings glide along in the channell of the publike ſafety, and advantage. We are very certaine, that the ho<g ref="char:EOLhyphen"/>nour and Priviledges of Parliament lie deare unto your heart, and that you only ſeek the conſerva<g ref="char:EOLhyphen"/>tion of the Engliſh Liberties in the bulke of the Parliaments juſt Priviledges. Wee dare not con<g ref="char:EOLhyphen"/>demne our ſelves of ſo much wilfull blindneſſe, as to ſay, we ſee no injuſtice, oppreſſion, violence in our borders; the Land is too full of thoſe that would eat out the verie bowels of it: And noble Sir, you are now in your actings and councells ingaging a<g ref="char:EOLhyphen"/>gainſt theſe, wee joyne with you in our hearts, and rejoyce in your endeavours.</p>
+            <p>We muſt needs ſpeake the truth, and dare not be<g ref="char:EOLhyphen"/>lie our conſciences, but with all modeſty reveal our thoughts, that had your Excellencies Army beene disbanded, wee might juſtly have looked for the invaſion of violence, ſlavery, ruine. The inſolen<g ref="char:EOLhyphen"/>cies
+<pb n="3" facs="tcp:114539:3"/>of our enemies had in all probability ſwolne to that height, that they would ſoone have trodden us under their feet: What was the expectation? what would have beene the rejoycing of Englands ene<g ref="char:EOLhyphen"/>mies, but the disbanding of that Army which hath beene ſuch a dread unto them? We are hereupon neceſſitated, and cannot but with ſome griefe of heart, mention and take notice of thoſe Officers and Souldiers, that have deſerted you in this your noble and memorable undertaking. Wee ſadly wonder, that any that have knowne your courage, undaun<g ref="char:EOLhyphen"/>tedneſſe, and reſolute fidelitie to the Kingdomes in<g ref="char:EOLhyphen"/>tereſt, ſhould now draw back and forſake you, when you are ſumming up all things (as we truſt) into har<g ref="char:EOLhyphen"/>mony and compoſure.</p>
+            <p>We are now opening our thoughts, and we do in the laſt place, according to our underſtanding, free<g ref="char:EOLhyphen"/>ly profeſſe, that wee looke upon it as a ſpeciall con<g ref="char:EOLhyphen"/>cernment to the Kingdome, that men of approved faithfulneſſe and truſt, be imployed to attend and guard his Majeſties Perſon. We may juſtly feare that diſcontented ſpirits have ſecret commotions, and are in travell to bring forth new miſchiefes to this Land: and doubtleſſe, they would have deeply wrought, and not have been wanting in councells, activeneſſe, and complices, (had they a faire oppor<g ref="char:EOLhyphen"/>tunity thereunto) to engage his Majeſty on their par<g ref="char:EOLhyphen"/>ty for the effecting of their deſigns. We muſt there<g ref="char:EOLhyphen"/>fore reckon it a glorious providence and mercy, and that which is very much conducing to peace and ſafety; that your Excellency and Army are ſo neare unto his Majeſtie, and have thereby an advan<g ref="char:EOLhyphen"/>tage by your care and vigilance to obſtruct and pre<g ref="char:EOLhyphen"/>vent
+<pb n="4" facs="tcp:114539:4"/>all contrivances of that nature, and to give his Majeſty and the Kingdome a right and cleare under<g ref="char:EOLhyphen"/>ſtanding of the candidneſſe and uprightneſſe of your preſent actings and intentions.</p>
+            <p>And now having our hearts full of the honour of your worth, of joy in your procedings, and atchieve<g ref="char:EOLhyphen"/>ments, and of love to your Excellencies Perſon, and Army, we have made this our moſt humble addreſſe unto you, and in this plaine, and modeſt phraſe be<g ref="char:EOLhyphen"/>ſpeake your Excellencie,</p>
+            <p n="1">1. That you would proſecute, and ſtill proceed to have ſuch brought to condigne puniſhment, that are the Kingdomes and Armies enemies; and earneſtly contend againſt thoſe, that would bereave us of our Rights and Liberties.</p>
+            <p n="2">2. That you would, as you have done, and doe with all reſpect, tender the honour, and juſt Privi<g ref="char:EOLhyphen"/>ledges of the Parliament, which renders your name and actions ſo precious in the eyes of the Kingdome.</p>
+            <p n="3">3. That you would negotiate with the Parliament, that your Army be not disbanded, till a firme peace be ſetled, and our Liberties fully ſecured.</p>
+            <p n="4">4. That all thoſe, who have deſerted your Army, may be declared to be ſuch as have flincht from the imployments of the Kingdome in its great exi<g ref="char:EOLhyphen"/>gencies; and that thoſe, who have ſtood and acted with you, may be encouraged, rewarded, and im<g ref="char:EOLhyphen"/>braced as faithfull and loyall to their Countries Intereſt.</p>
+            <p n="5">5. That you might continue to be a guard to his Majeſtie; and might be intruſted to imploy ſuch, as you know are faithfull, to attend him, that dis<g ref="char:EOLhyphen"/>affected perſons might not gaine an opportunitie or
+<pb n="5" facs="tcp:114539:4"/>have a deſigne on his Majeſties Perſon, to the invol<g ref="char:EOLhyphen"/>ving this Kingdome in new deſtractions.</p>
+            <p>We have thus far troubled your Excellencie, and crowded in amongſt the reſt, to ſhew our ſelves in the behalfe of our Countries Freedome: wee aſſure you, that what we have ſpoken in this Paper, we have referred to your ſelfe, as the head; to your Army and faithfull Commanders as one with you in Counſel, and enterprize. And we do declare, that in all thoſe enterprizes of ſervice, and gallantry, which we have acknowledg'd unto ye, we look upon ye un<g ref="char:EOLhyphen"/>der no other notion then as inſtruments, in the pow<g ref="char:EOLhyphen"/>er of God, who hath exalted himſelf, and through yee made himſelfe glorious in this our Land. Here<g ref="char:EOLhyphen"/>in we have laid open the very ſenſe of our hearts and reſolutions; and do purpoſe to ingage with yee to the utmoſt in the vindication of the Priviledges of Parliament, and of our undoubted Engliſh Liber<g ref="char:EOLhyphen"/>ties, whereunto we are borne. Goe on moſt Excel<g ref="char:EOLhyphen"/>lent Sir, in theſe your deſignes, and proſper; ſo ſhall England honour your name, and</p>
+            <closer>
+               <signed>Your Petitioners ſhall pray for your Excellencies happineſſe, and the ſucceſſe of your Army in all your ingagements.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="6" facs="tcp:114539:5"/>
+            <head>To the Honourable the Houſe of Commons aſſembled in Parliament.</head>
+            <head type="sub">The humble Petition of divers Free-men of England, Inhabitants in the City of Briſtoll, and in the adjacent parts.</head>
+            <opener>
+               <salute>Honourable;</salute>
+            </opener>
+            <p>
+               <hi>THe bringing forth and preſenting this Paper unto you, in ſuch a time as this, may now ſeeme altoge<g ref="char:EOLhyphen"/>ther poſthumous, and unſuitable to the preſent Oc<g ref="char:EOLhyphen"/>currences, God having ſo wheeled about things in his moſt wiſe providence. We indeed could not but eſteeme it our duty to appeare and expreſſe our ſad thoughts concern<g ref="char:EOLhyphen"/>ing the ſtate of things, at they then were; but meeting with private oppoſitions at home, and by the intervening of the la<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e publike tumults abroad, we were exceedingly retarded in our proceedings. And now though the appearance of the Sun breaking through the clouds hath very much re<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>v<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> as from under our drooping fears, and languiſ<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> make bold to offer this, ſuch as it is, unto you, and doe beſeech you according to your wiſdome, to referre everie thing here<g ref="char:EOLhyphen"/>in to its proper head, and to take the remaine of our deſires and your moſt ſeri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s conſideration <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> further pre<g ref="char:EOLhyphen"/>face, but relying upon, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> fa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>urable accep<g ref="char:EOLhyphen"/>tance, humbly beſeech you after this manner.</hi>
+            </p>
+            <p>AMongſt thoſe many Suppliants that now addreſſe themſelves unto you in this time of Englands breach, we alſo appeare to act our part, and diſcharge our duty to our native Countrey: and we the more willingly repaire unto you, becauſe we avouch the Parliament, the high and
+<pb n="7" facs="tcp:114539:5"/>ſupremeſt Court of Juſtice in this Kingdome, to be the aſ<g ref="char:EOLhyphen"/>ſertor of our Liberties, and upholder of all our Rights. We have alwaies with much delight and ſatisfaction looked up<g ref="char:EOLhyphen"/>on our Nation as happie under this Conſtitution, and the rather, in that we behold ſuch an oneneſſe betwixt the Par<g ref="char:EOLhyphen"/>liament and Kingdome, betwixt the Priviledges of the one, and the Liberties of the other. We well know, that the regular tranſactions of the Parliament can be no other then an unanimous concurrence to the weale and benefit of the Kingdome: And we alſo, as free-borne Natives, can do nothing againſt the Parliament, but all for the honour, ſafe<g ref="char:EOLhyphen"/>ty, and maintenance thereof: We cannot but have an ho<g ref="char:EOLhyphen"/>nourable reſpect unto you, as thoſe who being choſen by us, do in our names vindicate our Liberties from oppreſſion and violence; and we truſt, that you have a reciprocall ten<g ref="char:EOLhyphen"/>derneſſe over us, whom you do repreſent under all our bur<g ref="char:EOLhyphen"/>dens, preſſures, grievances.</p>
+            <p>We doe in the firſt place with all cheerfulneſſe acknow<g ref="char:EOLhyphen"/>ledge the vaſt expence of your unwearied labour and pains, in repelling the imminent dangers, and providing for the tranquillitie of this rent, torn Kingdome: your activeneſſe and induſtry to reſcue our knowne Rights from under the uſurpation of Tyrannie, cannot die in our thoughts, nor be concealed from the memory, and admiration of ſuccee<g ref="char:EOLhyphen"/>ding generations.</p>
+            <p>Yet Honourable, we have a few things to whiſper unto you in a mournfull accent, and to acquaint you with our fears, troubles, anguiſh, heavineſſe.</p>
+            <p>We had hoped, that the day of Englands peace had began to dawne, but truely we are very jealous that we yet heare a ſound of warre in our ſtreets. We ſeem to be reduced to this ſtraight, that either we muſt hearken to an unſound peace, which threatens us with the irruption of more preſ<g ref="char:EOLhyphen"/>ſing miſeries, or elſe through the inſtigation of malicious inſtruments, be ingaged in the miſchiefs of a ſecond warre. According to our beſt underſtanding and reaſon, we could not but judge ſo ſudden a disbanding of this Army, and in ſuch a way, to be the deſigne of thoſe that meane the ad<g ref="char:EOLhyphen"/>vancement
+<pb n="8" facs="tcp:114539:6"/>of themſelves, and the ſinking of the Kingdoms Liberties: and here peace ſhould have ſerved but to betray us into greater bondage: But this proſpering not, we trace the ſame men carrying on the ſame plot of our ſlavery by endeavouring to raiſe up another Army againſt this, and here is the ſad viſage of a new warre, which wee ſo much feare, and are not able to ſtand under. Further, what mean thoſe miſreports, railings, aſperſions, caſt upon that moſt faithfull (and ever to be reſpected) Army? Are not theſe alſo the iſſues of ſome heady and male-contented ſpirits, la<g ref="char:EOLhyphen"/>bouring to imbroyle the Kingdome in new commotions and diſcords? This ſpeaks ſadly in our eares, and it wounds our hearts, that an Army of ſuch high deſerts, that hath been the very walls and Bulwarks of this Land, ſhould be ſo inju<g ref="char:EOLhyphen"/>red, ſo affronted.</p>
+            <p>We have undertaken to lay before you our grievances, and wee reckon this not amongſt the leaſt, that the due courſe of the Subjects petitioning unto you, ſhould any way be hedged up, that anie power ſhould endeavour to ſuppreſſe and ſtifle them in their birth; and that when they are preſented, they ſhould be condemned to the fire. W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cannot conſtrue ſuch actings anie otherwiſe then the arbitrarie proceedings of a prevailing Party, and ſuch as breath forth, the certain and totall ruine of this Kingdome, and our Liberties. And truely this enforceth us with all freeneſſe and humilitie to acquaint you, that we muſt needs ſuſpect, there are manie ſitting in that eminent Court, and other conſpicuous places of Judicature in this King<g ref="char:EOLhyphen"/>dome, that are friends to oppreſſion and violence. Wee cannot but cry out of wrong in whomſoever we ſee it, and ſurely wee muſt needs ſpeake, when it is crept in there where there ſhould be the habitation of Juſtice. And wee eſpie likewiſe in the ſeverall parts of the Land, this unequall mannaging of things by thoſe in power, that divers of the Kingdomes moſt faithfull friends, who are rather to bee cheriſhed and advanced, are yet everie where ſleighted, diſ<g ref="char:EOLhyphen"/>countenanced, and kept out of places of truſt and emolu<g ref="char:EOLhyphen"/>ment: wherein alſo we ſadly obſerve the frame of all
+<pb n="9" facs="tcp:114539:6"/>things returning to their former confuſions.</p>
+            <p>We entreat you not to be offended, when we freely tell you, that the Covenant (as it is now preſt upon the King<g ref="char:EOLhyphen"/>dome) is a burthen and ſnare to many tender ſpirits; it is not unknown to us that manie faithfull and valiant Heroes, who have ſtood reſolutely in defence of the Parliament and Kingdome, dare not yet ſubſcribe, and come within the compaſſe of that ingagement. And do not many of thoſe perſons who adhered unto you when the power of your e<g ref="char:EOLhyphen"/>nemies was great and inſolent, and are againe readie to ven<g ref="char:EOLhyphen"/>ture all with you againſt the uſurpers of our Liberties, even ſigh under thoſe Edicts that inforce and urge it upon them? We beſeech you to remember thoſe your Declarations, wherein you promiſed to ſuccour ſuch, who through the tenderneſſe of their conſciences, could not ſubmit to every thing that might haply be impoſed upon them: For wee humbly conceive, it will much adde to the flouriſhing of this Kingdome, that you take ſuch Subjects under your protections, they conforming to the Lawes, and paying all lawful Cuſtoms of Tribute and dues whatſoever unto the Civill State. And herein we are not ſelfiſh, and glance at a particular party, but our thoughts and deſires run publike: We are verie cleare for, and ſhall much rejoice in the eſta<g ref="char:EOLhyphen"/>bliſhment of a generall right and juſt freedome to all men: and we could cordially wiſh, that thoſe who have partaked with the King in the late differences, may know the utmoſt of their ſufferings; and when they have fully ſatisfied for their former Delinquencies, and do give manifeſt teſtimo<g ref="char:EOLhyphen"/>nies of their future ſubjection, they may be received into the ſecuritie of common immunities, and be conquered by an unparallell'd clemencie: This we humby offer unto your more mature conſideration, as that which may facillitate the ſettlement of a ſweet and laſting peace in this (now di<g ref="char:EOLhyphen"/>vided) Kingdome.</p>
+            <p>And Worthies, can you check us, when we aſſure you that our very ſoules bleed under the ſence of thoſe burdens, that lie upon the oppreſſed, when we heare the groanes of the Widdowes, and Fatherleſſe, when we ſee the anguiſh of
+<pb n="10" facs="tcp:114539:7"/>their ſpirits, that have loſt neare relations, friends, and eſtates in the ſervice of the Parliament; nay, when we know, that the Powers that ſhould helpe them, doe adde oppreſſion unto them, we are even then full of heavi<g ref="char:EOLhyphen"/>neſſe, and become ſilent by reaſon of the greatneſſe of our ſorrowes. We may hereupon very opportunely number over againe unto you thoſe vaſt ſums of moneyes, that have been disburſed out of the Kingdomes Treaſurie; and ſhall we ſay, to thoſe that have had little or no need of it, when as many thouſand Families that have been totally impove<g ref="char:EOLhyphen"/>riſh't, and undone, have not yet received the leaſt ſuccour, and reliefe from you.</p>
+            <p>We doe likewiſe tenderly ſimpathize with thoſe our fel<g ref="char:EOLhyphen"/>low-ſubjects, that are, and have been a long time impriſoned, and lie under preſſures, and wants, them, their wives &amp; chil<g ref="char:EOLhyphen"/>dren, we will not take the boldneſſe to mention any, but ſi<g ref="char:EOLhyphen"/>lently referre to ſuch, as have indured the tartneſſe of a long impriſonment with its exceſſive charges, and have not as yet been brought to a legall tryall; they profeſſing, that they only ſtand up for the rights of free-borne Engliſh Sub<g ref="char:EOLhyphen"/>jects And here it ſeems not altogether ſuperfluous to mind you of thoſe great abuſes, that are generally in the Priſons themſelves: If we conſider the long time of Impriſonments, the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſtineſſe of the places, and the intollerable exceſſe of fees, we may well ſay, that Priſons are the executions of Priſoners before their tryall.</p>
+            <p>We are now putting a period to this large rehearſall, wherein we have unbowelled our ſelves unto you, and ſhall only crave leave to caſt this one thing into the common heape of our other grievances. We have in our experience obſerved, that many have waſted great eſtates, and been ſuddainly reduced to povertie, by their waiting upon the te<g ref="char:EOLhyphen"/>dious determinations of Law-ſuits, we cannot impute this to any thing elſe, but either the intricacy, and perplextneſſe of the Laws, or the deceit and corruption of thoſe that plead. It will undoubtedly in the iſſue prove a great eaſe unto the Subject, if the Common-Lawes be written in our owne dia<g ref="char:EOLhyphen"/>lect, and in their number, and plainneſſe brought down to
+<pb n="11" facs="tcp:114539:7"/>the obviouſneſſe of an ordinary underſtanding: This in all likelihood will prevent malice, and contentions, and give us the advantage of knowing our own Rights, without the trouble of a Suit.</p>
+            <p>Having had theſe things ſadly in our thoughts, we have according to our juſt freedome, vented them to this Honou<g ref="char:EOLhyphen"/>rable Houſe for redreſſe, and we do ſeriouſly and moſt hum<g ref="char:EOLhyphen"/>bly lay theſe our equall and modeſt deſires, at your Honours feeet. And do intreat you,</p>
+            <p n="1">1. That ye would provide for the ſettlement of a firme and laſting peace in this Kingdome, according to the full opportunity now before you: and divert all occaſions of, and preparations unto a ſecond Warre: And that ye would ſo ſuccour Ireland, as that Kingdome alſo may at length revive out of it's bleeding, dying condition.</p>
+            <p n="2">2. That ye would fully anſwer the juſt deſires, and grie<g ref="char:EOLhyphen"/>vances of the Army; vindicate them from all aſperſions and calumnies; give them all due reparations, and continue them undisbanded, till the Kingdome ſhall have the happie experience of a well ſetled peace.</p>
+            <p n="3">3. That the juſt rights, and Liberties of the Engliſh Sub<g ref="char:EOLhyphen"/>jects may be ſecured from all violence, oppreſſion, Injuſtice, Tyrannie; and the free courſe of juſtice paſſe upon all ſuch infringers of our Liberties, as either have been, or ſhall be impeached, and convicted.</p>
+            <p n="4">4. That ye would free us from any unlawfull power, that indeavours to ſuppreſſe the Petitions of the Subjects; and that yee would not diſcountenance, nor deale diſgrace<g ref="char:EOLhyphen"/>fully with any Petition brought from the grieved Subject.</p>
+            <p n="5">5. That ye would remove out of the Houſe of Parliament, out of Committees, and places of adminiſtration of juſtice, all ſuch as are juſtly made incapable by your ſeverall Votes, and Ordinances.</p>
+            <p n="6">6. That ſuch who have given undoubted teſtimonies of their abilities, and faithfulneſſe, may be intruſted, and continued in the ſeverall places of power, rule and concernment in the Kingdom. And to mention one thing more plainly, that the
+<pb n="12" facs="tcp:114539:8"/>
+               <hi>Militia</hi> of the Kingdome may be ſpeedily ſetled, and put in<g ref="char:EOLhyphen"/>to the hands of ſuch perſons, and in particular the <hi>Militia</hi> of the Citie of London tranſmitted back again unto thoſe, who formerly mannag'd it with much truſt in time of greateſt danger.</p>
+            <p n="7">7. That yee would be tender in impoſing the Covenant, either upon any of your Members, or upon any other ſub<g ref="char:EOLhyphen"/>ject in this Kingdome, whoſe conſciences dare not ſubſcribe unto it: and that occaſion or advantage might not be hence taken to quit any of known fidelitie, out of the truſts and ſervices they have in the Common-wealth, if they cannot ſubmit unto it.</p>
+            <p n="8">8. That according to your ſeverall Ordinances made, yee would provide for the ſuccouring of tender conſciences, and not ſuffer them to be greiv'd, and brought into bondage by any rigid impoſitions, but protect them by the Lawes, in their civill rights, ſo long as they live peaceably, and with<g ref="char:EOLhyphen"/>out offence.</p>
+            <p n="9">9. That to prevent feuds, factions, future inſurrections and tumults, and to procure a laſting peace to this Nation, ye would propoſe to ſuch, as have partak'd with the King, their utmoſt penaltie, and that they fully ſatisfying it, may be own'd again as Subjects, all former actings be oblitera<g ref="char:EOLhyphen"/>ted; and they for the future ſecur'd in their Common In<g ref="char:EOLhyphen"/>tereſts, ſo far as may conſiſt with the ſafety of the King<g ref="char:EOLhyphen"/>dome, and the conſervation of our juſt Rights and Liberties.</p>
+            <p n="10">10. That ye would ſeriouſly conſider our fellow-ſubjects, that are caſt into Priſons, and lye languiſhing there; and provide for the hearing of their cauſes, that either they may bee acquitted by Law, and have reparations for their loſſes, and ſufferings, or elſe fall under the cenſure of it, if they ſo demerit.</p>
+            <p n="11">11. That long, and lingring impriſonments may be re<g ref="char:EOLhyphen"/>medied by a ſpeedie tryall; proviſion made for the clean<g ref="char:EOLhyphen"/>ſing, and better regulating of Priſons; and the exceſſive Fees abated, that Priſons may be for ſecurity only, not for puniſhment.</p>
+            <pb n="13" facs="tcp:114539:8"/>
+            <p n="12">12. That yee would tenderly compaſſionate the Wid<g ref="char:EOLhyphen"/>dowes, and fatherleſſe, and thoſe, who have loſt eſtates and limbs, for their affections to, and in the ſervice of the Parliament.</p>
+            <p n="13">13. That accounts may be given for the millions of monies that have been expended; and that yee would firſt, and chiefely diſpoſe of the Treaſures of the Kingdome for the payment of the Publique debts, and for the reliefe of thoſe, that are either totally impoveriſht, or elſe ſmart un<g ref="char:EOLhyphen"/>der very great loſſes; and (to ſpeak with all humility) not as it hath been, to divers of your own Houſes, and others, that lye not under ſuch preſſing neceſſities.</p>
+            <p n="14">14. That, in your counſells, ye would find out a way, for the deciding of controverſies, and Suits of Law, without ſo much expence of time, trouble, and charges; and bring the Lawes (if poſſibly you may) into a leſſer volume, and to ſpeak our owne Language.</p>
+            <p>Wee have now ſpoken all, and do beſeech you to believe, that our only aime in theſe our requeſts is the Honor of the Parliament; and the advantage of the Kingdome.</p>
+            <p>If then, you the high and Honorable Court of this King<g ref="char:EOLhyphen"/>dome, ſhall be pleaſed to reſume this Paper, and lay our deſires and grievances therein expreſt unto your hearts,</p>
+            <closer>
+               <signed>Your Petitioners, that are in all things carefull, to conſerve the being, and Priviledges of Parliament, that are faith<g ref="char:EOLhyphen"/>full to their Countreyes Liberties, ſhall pray for your Ho<g ref="char:EOLhyphen"/>nours peace and ſafety, and for the ſettlement of this King<g ref="char:EOLhyphen"/>dome in all tranquillity, &amp;c.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="text">
+            <head>Die Jovis, <hi>2.</hi> Septemb. <hi>1647.</hi>
+            </head>
+            <p>THe Houſe being informed, that divers Gentlemen of the City of Briſtoll, and the parts thereabouts, were at the doore,
+<pb n="14" facs="tcp:114539:9"/>deſirous to preſent a Petition to the Houſe; they were called in.</p>
+            <p>The Petition was read, and ſtiled, <hi>The humble Petition of divers Free<g ref="char:EOLhyphen"/>men of England, Jnhabitants in the Ci<g ref="char:EOLhyphen"/>ty of Briſtoll, and in the adjacent parts.</hi>
+            </p>
+            <p>Reſolved, &amp;c.</p>
+            <p>
+               <hi>That this ſhall be the Anſwer to the Petitioners, That though there be ſome things in this Petition, that the Houſe cannot ſo well approve of, to be preſen<g ref="char:EOLhyphen"/>ted by Petition, yet there are ſome things in which they have expreſſed their good affections to this Houſe, and to the Kingdome; and that for their good affections, they ſhall have the thanks of this Houſe.</hi>
+            </p>
+            <p>The Petitioners were againe cal<g ref="char:EOLhyphen"/>led in, and M. Speaker by command of this Houſe, did accordingly give them this Anſwer.</p>
+            <closer>
+               <signed>H. Elſynge Cler. Parl. Dom. Com.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
